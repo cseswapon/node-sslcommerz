@@ -1,6 +1,6 @@
 {
   "name": "ss-sslcommerz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TypeScript-compatible SSLCommerz payment gateway wrapper for Node.js, NestJS, and Express.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
