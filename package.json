@@ -1,7 +1,7 @@
 {
   "name": "ss-sslcommerz",
-  "version": "1.0.0",
-  "description": "TypeScript-compatible SSLCommerz payment gateway wrapper",
+  "version": "1.0.1",
+  "description": "TypeScript-compatible SSLCommerz payment gateway wrapper for Node.js, NestJS, and Express.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,6 +10,26 @@
   },
   "author": "Swapon Saha",
   "license": "ISC",
+  "keywords": [
+    "sslcommerz",
+    "payment",
+    "typescript",
+    "gateway",
+    "nodejs",
+    "nestjs",
+    "express",
+    "sslcommerz-api",
+    "sslcommerz-integration",
+    "sslcommerz-ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cseswapon/ss-sslcommerz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cseswapon/ss-sslcommerz/issues"
+  },
+  "homepage": "https://github.com/cseswapon/ss-sslcommerz#readme",
   "dependencies": {
     "form-data": "^2.5.0",
     "node-fetch": "^2.6.1"
