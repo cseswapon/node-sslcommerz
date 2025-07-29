@@ -1,6 +1,6 @@
 
 ````md
-# sslcommerz
+# ss-sslcommerz
 
 A TypeScript-compatible, framework-agnostic wrapper for the [SSLCommerz](https://www.sslcommerz.com/) payment gateway. Developed by **Swapon Saha**. This module works with Node.js, NestJS, Express, or any JavaScript/TypeScript environment.
 
@@ -25,7 +25,7 @@ A TypeScript-compatible, framework-agnostic wrapper for the [SSLCommerz](https:/
 Install the package using npm:
 
 ```bash
-npm install sslcommerz
+npm install ss-sslcommerz
 ````
 
 ---
@@ -35,7 +35,7 @@ npm install sslcommerz
 ### Step 1: Import the Package
 
 ```ts
-import SSLCommerzPayment from 'sslcommerz';
+import SSLCommerzPayment from 'ss-sslcommerz';
 ```
 
 ---

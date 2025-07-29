@@ -1,5 +1,5 @@
 {
-  "name": "sslcommerz",
+  "name": "ss-sslcommerz",
   "version": "1.0.0",
   "description": "TypeScript-compatible SSLCommerz payment gateway wrapper",
   "main": "dist/index.js",
